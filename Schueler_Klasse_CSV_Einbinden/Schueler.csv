@@ -1,0 +1,4 @@
+ID integer;name varchar(30);geburtstag varchar(20);jahre integer;beschreibung varchar(30)
+1;Novak Livo;14.08.2004;17;hilfsbereit
+2;Jungmann Julian;18.07.2005;16;freundlich
+3;Hoertnagl Valentin ;10.12.2004;17;lernwillig

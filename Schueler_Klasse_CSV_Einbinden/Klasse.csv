@@ -1,0 +1,2 @@
+ID integer;name varchar(30);anzSchueler integer
+1;3AHWII;25
