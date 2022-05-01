@@ -1,0 +1,1 @@
+{"klasse":"3AHWII","vorname":"Julian","nachname":"Jungmann","beschreibung":"lernwillig","age":16}{"klasse":"3AHWII","vorname":"Tobias","nachname":"Hauser","beschreibung":"freundlich","age":17}{"klasse":"3AHWII","vorname":"Valentin","nachname":"Hoertnagl","beschreibung":"hilfsbereit","age":17}

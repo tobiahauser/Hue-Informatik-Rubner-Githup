@@ -1,0 +1,5 @@
+{"vorname":"Julian", "nachname":"Jungmann", "age":16, "klasse":"3AHWII", "beschreibung":"lernwillig"}
+{"vorname":"Tobias", "nachname":"Hauser", "age":17, "klasse":"3AHWII", "beschreibung":"freundlich"}
+{"vorname":"Valentin", "nachname":"Hoertnagl", "age":17, "klasse":"3AHWII", "beschreibung":"hilfsbereit"}
+
+
